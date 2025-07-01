@@ -1,15 +1,9 @@
-## A passionate software developer from Sri Lanka
+🎓 Data Science Undergraduate | 💻 Aspiring Data Analyst | 📊 Python | SQL | Power BI
 
-- 🔭 I’m currently working on C# and PHP Projects
+Hi there! I'm Kenula Methsith — a passionate data science student currently pursuing my BSc (Hons) in Data Science from London Metropolitan University. I’ve completed a Higher National Diploma in Computing and enjoy working on data-driven projects, building visualizations, and exploring the power of machine learning.
 
-- 🌱 I’m currently learning HND in Software Engineerinng
-  
-- 👯 I’m looking to collaborate on  C# and PHP Projects
-  
-- 🤔 I’m looking for help with CC# and PHP Projects
-  
-- 💬 Ask me about C# , Python ,PHP
-  
-- 📫 How to reach me: kenulamethsith@gmail.com
-  
-- ⚡ Fun fact: Coding is Life.
+🛠️ Tech Stack: Python, SQL, Power BI, Pandas, Scikit-learn, HTML/CSS, React (basic)  
+📌 Interests: Data Analysis | Web Development | Machine Learning | Visualization  
+📁 Projects: Check out my repositories below for academic and personal projects!
+
+📫 Let’s connect: kenulamethsith@gmail.com | [LinkedIn Profile]
