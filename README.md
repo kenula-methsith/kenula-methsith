@@ -1,4 +1,4 @@
-🎓 **Data Science Undergraduate | 💻 Aspiring Data Analyst | 📊 Python | SQL | Power BI**
+🎓 **Data Science | 💻 Aspiring Data Analyst | 📊 Python | SQL | Power BI**
 
 Hi there! I'm Kenula Methsith — a passionate data science student currently pursuing my BSc (Hons) in Data Science from London Metropolitan University. I’ve completed a Higher National Diploma in Computing and enjoy working on data-driven projects, building visualizations, and exploring the power of machine learning.
 
